@@ -14,4 +14,5 @@ or
 `sudo easy_install email`
 
 ## Log
-v1.00 : First version is online.
+v1.1: Refactoring of v1
+v1.0: First version is online.
