@@ -9,9 +9,9 @@ Do not, under any circumstances, misuse this software for criminal activity or w
 1) Python 3.5.*
 2) email-module from python
 
-sudo pip install email
+`sudo pip install email`
 or
-sudo easy_install email
+`sudo easy_install email`
 
 ## Log
 v1.00 : First version is online.
