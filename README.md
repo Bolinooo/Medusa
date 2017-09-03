@@ -15,4 +15,5 @@ or
 
 ## Log
 v1.1: Refactoring of v1
+
 v1.0: First version is online.
